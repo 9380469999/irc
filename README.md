@@ -1,2 +1,2 @@
 # irc
-caht room
+chat room
